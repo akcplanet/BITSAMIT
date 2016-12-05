@@ -1,0 +1,1 @@
+var analysisservice = angular.module('analysisservice', [ 'ngResource', 'ngRoute' ]);

@@ -1,0 +1,1 @@
+var mainconfig= angular.module('mainconfig',[]);
